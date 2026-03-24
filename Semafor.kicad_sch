@@ -381,212 +381,6 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "5MS1S102AM6QES:5MS1S102AM6QES"
-			(exclude_from_sim no)
-			(in_bom yes)
-			(on_board yes)
-			(property "Reference" "S"
-				(at 21.59 7.62 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left top)
-				)
-			)
-			(property "Value" "5MS1S102AM6QES"
-				(at 21.59 5.08 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left top)
-				)
-			)
-			(property "Footprint" "5MS1S102AM6QES"
-				(at 21.59 -94.92 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left top)
-					(hide yes)
-				)
-			)
-			(property "Datasheet" ""
-				(at 21.59 -194.92 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left top)
-					(hide yes)
-				)
-			)
-			(property "Description" "Slide Switches ON-ON SPDT Right"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Height" "6.6"
-				(at 21.59 -394.92 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left top)
-					(hide yes)
-				)
-			)
-			(property "Mouser Part Number" "118-5MS1S102AM6QES"
-				(at 21.59 -494.92 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left top)
-					(hide yes)
-				)
-			)
-			(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/Dailywell/5MS1S102AM6QES?qs=B6kkDfuK7%2FBHVJoQEkyphg%3D%3D"
-				(at 21.59 -594.92 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left top)
-					(hide yes)
-				)
-			)
-			(property "Manufacturer_Name" "Dailywell"
-				(at 21.59 -694.92 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left top)
-					(hide yes)
-				)
-			)
-			(property "Manufacturer_Part_Number" "5MS1S102AM6QES"
-				(at 21.59 -794.92 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left top)
-					(hide yes)
-				)
-			)
-			(symbol "5MS1S102AM6QES_1_1"
-				(rectangle
-					(start 5.08 2.54)
-					(end 20.32 -7.62)
-					(stroke
-						(width 0.254)
-						(type default)
-					)
-					(fill
-						(type background)
-					)
-				)
-				(pin passive line
-					(at 0 0 0)
-					(length 5.08)
-					(name "MH2"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "MH2"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 0 -2.54 0)
-					(length 5.08)
-					(name "MH1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "MH1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 25.4 0 180)
-					(length 5.08)
-					(name "NO"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "3"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 25.4 -2.54 180)
-					(length 5.08)
-					(name "COM"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "2"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin no_connect line
-					(at 25.4 -5.08 180)
-					(length 5.08)
-					(name "NC"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-			)
-			(embedded_fonts no)
-		)
 		(symbol "Connector:Conn_01x01_Pin"
 			(pin_numbers
 				(hide yes)
@@ -1158,6 +952,398 @@
 			)
 			(embedded_fonts no)
 		)
+		(symbol "EG1206A:EG1206A"
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "S"
+				(at 19.05 7.62 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+				)
+			)
+			(property "Value" "EG1206A"
+				(at 19.05 5.08 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+				)
+			)
+			(property "Footprint" "EG1206A"
+				(at 19.05 -94.92 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" "https://configured-product-images.s3.amazonaws.com/2D/specs/EG1206A.pdf"
+				(at 19.05 -194.92 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+					(hide yes)
+				)
+			)
+			(property "Description" "SLIDE, 200mA, 30VDC SPDT, On-On Through Hole, Right Angle"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Height" "6"
+				(at 19.05 -394.92 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+					(hide yes)
+				)
+			)
+			(property "TME Electronic Components Part Number" ""
+				(at 19.05 -494.92 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+					(hide yes)
+				)
+			)
+			(property "TME Electronic Components Price/Stock" ""
+				(at 19.05 -594.92 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+					(hide yes)
+				)
+			)
+			(property "Manufacturer_Name" "E-Switch"
+				(at 19.05 -694.92 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+					(hide yes)
+				)
+			)
+			(property "Manufacturer_Part_Number" "EG1206A"
+				(at 19.05 -794.92 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+					(hide yes)
+				)
+			)
+			(symbol "EG1206A_1_1"
+				(rectangle
+					(start 5.08 2.54)
+					(end 17.78 -12.7)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type background)
+					)
+				)
+				(pin passive line
+					(at 0 0 0)
+					(length 5.08)
+					(name "MH1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "MH1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 0 -2.54 0)
+					(length 5.08)
+					(name "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 0 -5.08 0)
+					(length 5.08)
+					(name "COM"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 0 -7.62 0)
+					(length 5.08)
+					(name "3"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "3"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 0 -10.16 0)
+					(length 5.08)
+					(name "MH2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "MH2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
+		(symbol "Jumper:SolderJumper_2_Open"
+			(pin_numbers
+				(hide yes)
+			)
+			(pin_names
+				(offset 0)
+				(hide yes)
+			)
+			(exclude_from_sim no)
+			(in_bom no)
+			(on_board yes)
+			(property "Reference" "JP"
+				(at 0 2.032 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" "SolderJumper_2_Open"
+				(at 0 -2.54 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" "~"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" "Solder Jumper, 2-pole, open"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_keywords" "solder jumper SPST"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_fp_filters" "SolderJumper*Open*"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "SolderJumper_2_Open_0_1"
+				(polyline
+					(pts
+						(xy -0.254 1.016) (xy -0.254 -1.016)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(arc
+					(start -0.254 -1.016)
+					(mid -1.2656 0)
+					(end -0.254 1.016)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(arc
+					(start -0.254 -1.016)
+					(mid -1.2656 0)
+					(end -0.254 1.016)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type outline)
+					)
+				)
+				(arc
+					(start 0.254 1.016)
+					(mid 1.2656 0)
+					(end 0.254 -1.016)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(arc
+					(start 0.254 1.016)
+					(mid 1.2656 0)
+					(end 0.254 -1.016)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type outline)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0.254 1.016) (xy 0.254 -1.016)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+			)
+			(symbol "SolderJumper_2_Open_1_1"
+				(pin passive line
+					(at -3.81 0 0)
+					(length 2.54)
+					(name "A"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 3.81 0 180)
+					(length 2.54)
+					(name "B"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
 		(symbol "Transistor_BJT:BC548"
 			(pin_names
 				(offset 0)
@@ -1691,9 +1877,9 @@
 			(embedded_fonts no)
 		)
 	)
-	(text "KEYS2464"
+	(text "COMF BH-331P24"
 		(exclude_from_sim no)
-		(at 115.57 217.17 0)
+		(at 105.41 217.17 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1780,6 +1966,12 @@
 		(uuid "acd56f62-54df-4827-876d-b95e649c31b5")
 	)
 	(junction
+		(at 110.49 200.66)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "cca49836-7cd5-41ae-9829-f87449af0177")
+	)
+	(junction
 		(at 102.87 74.93)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -1790,6 +1982,18 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "dbc4776f-e0f7-4469-9be4-d56402e2ca11")
+	)
+	(junction
+		(at 106.68 198.12)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "e763a2d4-5aca-47e6-ae95-ef454b20761e")
+	)
+	(junction
+		(at 105.41 205.74)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "fdb868d6-9cc8-41df-bdcd-62bb64d36204")
 	)
 	(no_connect
 		(at 115.57 93.98)
@@ -1808,16 +2012,8 @@
 		(uuid "3f714a57-fc78-4f2e-af9d-da5127540845")
 	)
 	(no_connect
-		(at 88.9 200.66)
-		(uuid "75653b6b-dfed-49a5-a087-9e146ac7022b")
-	)
-	(no_connect
 		(at 115.57 99.06)
 		(uuid "b20446c4-6b77-4cc9-915f-25d535de509b")
-	)
-	(no_connect
-		(at 88.9 198.12)
-		(uuid "db2cf336-7b44-4572-aff3-a1da0c24e789")
 	)
 	(no_connect
 		(at 115.57 106.68)
@@ -1826,6 +2022,10 @@
 	(no_connect
 		(at 115.57 109.22)
 		(uuid "e8249157-ac15-4ede-a636-31e379f88992")
+	)
+	(no_connect
+		(at 104.14 203.2)
+		(uuid "f796d9bf-1da9-4e45-b2e3-85b171309c92")
 	)
 	(wire
 		(pts
@@ -1949,13 +2149,23 @@
 	)
 	(wire
 		(pts
-			(xy 115.57 200.66) (xy 114.3 200.66)
+			(xy 115.57 200.66) (xy 110.49 200.66)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
 		(uuid "47151e1a-7bc5-4c1a-a227-939389e2d69f")
+	)
+	(wire
+		(pts
+			(xy 105.41 205.74) (xy 104.14 205.74)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "47f42814-4154-4e71-8859-ef79a8347b9a")
 	)
 	(wire
 		(pts
@@ -1979,6 +2189,26 @@
 	)
 	(wire
 		(pts
+			(xy 110.49 200.66) (xy 104.14 200.66)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "50431360-276f-43e0-b65c-a38fd3eba880")
+	)
+	(wire
+		(pts
+			(xy 106.68 179.07) (xy 106.68 198.12)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "532a7cda-04a0-4b47-9ac3-225bc7ad8007")
+	)
+	(wire
+		(pts
 			(xy 87.63 93.98) (xy 90.17 93.98)
 		)
 		(stroke
@@ -1996,6 +2226,26 @@
 			(type default)
 		)
 		(uuid "56ae9d3b-5a2d-4e73-add4-216e592d6ed3")
+	)
+	(wire
+		(pts
+			(xy 105.41 195.58) (xy 105.41 205.74)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "58340cd0-5fec-4cfc-8b79-96decacdfa7f")
+	)
+	(wire
+		(pts
+			(xy 104.14 195.58) (xy 105.41 195.58)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5876080b-7d05-42ce-9db7-f768d3a058da")
 	)
 	(wire
 		(pts
@@ -2026,6 +2276,16 @@
 			(type default)
 		)
 		(uuid "67fb03ce-ac5c-4136-9909-2780c90d32de")
+	)
+	(wire
+		(pts
+			(xy 106.68 198.12) (xy 104.14 198.12)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "69908590-b4ca-4521-ab79-5a51209a9015")
 	)
 	(wire
 		(pts
@@ -2129,6 +2389,16 @@
 	)
 	(wire
 		(pts
+			(xy 110.49 186.69) (xy 110.49 200.66)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b0a6c5dc-d4e6-41b7-b56e-1e0cfd1219f9")
+	)
+	(wire
+		(pts
 			(xy 59.69 44.45) (xy 59.69 55.88)
 		)
 		(stroke
@@ -2149,7 +2419,7 @@
 	)
 	(wire
 		(pts
-			(xy 115.57 198.12) (xy 114.3 198.12)
+			(xy 115.57 198.12) (xy 106.68 198.12)
 		)
 		(stroke
 			(width 0)
@@ -2226,6 +2496,16 @@
 			(type default)
 		)
 		(uuid "dd6eccbc-289f-44e5-b2f8-383991720a6b")
+	)
+	(wire
+		(pts
+			(xy 110.49 179.07) (xy 106.68 179.07)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e02bda06-9de4-495b-8df2-f1a01c4ffcd3")
 	)
 	(wire
 		(pts
@@ -2475,7 +2755,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "BAT+"
+		(property "Value" "BH-331P24"
 			(at 116.84 213.36 90)
 			(effects
 				(font
@@ -2511,6 +2791,24 @@
 				(hide yes)
 			)
 		)
+		(property "Mouser Part Number" ""
+			(at 115.57 214.63 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser Price/Stock" ""
+			(at 115.57 214.63 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "71e49516-416d-47d9-98a0-22260424ccc8")
 		)
@@ -2529,7 +2827,7 @@
 		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(uuid "14797b76-b968-4c69-9f11-4f2604ff8e11")
@@ -2542,7 +2840,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "BAT-"
+		(property "Value" "BH-331P24"
 			(at 116.84 219.71 90)
 			(effects
 				(font
@@ -2571,6 +2869,24 @@
 		)
 		(property "Description" "Generic connector, single row, 01x01, script generated"
 			(at 115.57 219.71 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser Part Number" ""
+			(at 115.57 219.71 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser Price/Stock" ""
+			(at 115.57 219.71 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2662,6 +2978,24 @@
 				(hide yes)
 			)
 		)
+		(property "Mouser Part Number" ""
+			(at 152.4 128.27 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser Price/Stock" ""
+			(at 152.4 128.27 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "6cf10d2e-60ee-457e-8100-94a54638e12d")
 		)
@@ -2724,6 +3058,24 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 152.4 120.65 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser Part Number" ""
+			(at 152.4 120.65 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser Price/Stock" ""
 			(at 152.4 120.65 0)
 			(effects
 				(font
@@ -2857,6 +3209,24 @@
 		)
 		(property "Description" "Unpolarized capacitor"
 			(at 71.12 104.14 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser Part Number" ""
+			(at 71.12 104.14 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser Price/Stock" ""
+			(at 71.12 104.14 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3066,6 +3436,24 @@
 				(hide yes)
 			)
 		)
+		(property "Mouser Part Number" ""
+			(at 113.03 78.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser Price/Stock" ""
+			(at 113.03 78.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "5cb7ee57-ee9a-494c-b15f-f624ce49f127")
 		)
@@ -3133,6 +3521,24 @@
 				(hide yes)
 			)
 		)
+		(property "Mouser Part Number" ""
+			(at 119.38 66.04 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser Price/Stock" ""
+			(at 119.38 66.04 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "2eae20ba-ae59-4a5c-8f6a-aa4524a35a9b")
 		)
@@ -3143,6 +3549,94 @@
 			(project "Semafor"
 				(path "/28502dfb-f32c-4f8d-b9ed-b37434456d14"
 					(reference "R8")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Jumper:SolderJumper_2_Open")
+		(at 110.49 182.88 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom no)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "3eca0e32-615a-4613-9355-2c210ef0ce24")
+		(property "Reference" "JP1"
+			(at 113.03 181.6099 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "SolderJumper"
+			(at 113.03 184.1499 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "Jumper:SolderJumper-2_P1.3mm_Open_RoundedPad1.0x1.5mm"
+			(at 110.49 182.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 110.49 182.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Solder Jumper, 2-pole, open"
+			(at 110.49 182.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser Part Number" ""
+			(at 110.49 182.88 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser Price/Stock" ""
+			(at 110.49 182.88 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "f926f119-128d-4970-ab0c-64a20a9409e8")
+		)
+		(pin "1"
+			(uuid "a327a876-9752-4616-b0e4-78c370542dc0")
+		)
+		(instances
+			(project ""
+				(path "/28502dfb-f32c-4f8d-b9ed-b37434456d14"
+					(reference "JP1")
 					(unit 1)
 				)
 			)
@@ -3346,135 +3840,6 @@
 		)
 	)
 	(symbol
-		(lib_id "5MS1S102AM6QES:5MS1S102AM6QES")
-		(at 88.9 198.12 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "6a2c8e21-0549-4713-9352-69f46ef29b14")
-		(property "Reference" "SW1"
-			(at 101.6 190.5 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "5MS1S102AM6QES"
-			(at 101.6 193.04 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "ProjLib:5MS1S102AM6QES"
-			(at 110.49 293.04 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 110.49 393.04 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Description" "Slide Switches ON-ON SPDT Right"
-			(at 88.9 198.12 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Height" "6.6"
-			(at 110.49 593.04 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Mouser Part Number" "118-5MS1S102AM6QES"
-			(at 110.49 693.04 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/Dailywell/5MS1S102AM6QES?qs=B6kkDfuK7%2FBHVJoQEkyphg%3D%3D"
-			(at 110.49 793.04 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer_Name" "Dailywell"
-			(at 110.49 893.04 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer_Part_Number" "5MS1S102AM6QES"
-			(at 110.49 993.04 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(pin "MH1"
-			(uuid "f89095b6-fe1d-4613-b498-fab27dcba0d3")
-		)
-		(pin "MH2"
-			(uuid "8c8f5e10-b24f-4da2-8aea-c196cea87340")
-		)
-		(pin "1"
-			(uuid "6358c425-ebd1-4455-9208-992e03850129")
-		)
-		(pin "3"
-			(uuid "26c7b97c-14e8-4112-925f-fc821f81f462")
-		)
-		(pin "2"
-			(uuid "34a6a974-f101-4bb9-af3c-3500e465275c")
-		)
-		(instances
-			(project ""
-				(path "/28502dfb-f32c-4f8d-b9ed-b37434456d14"
-					(reference "SW1")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Device:R")
 		(at 45.72 59.69 0)
 		(unit 1)
@@ -3529,6 +3894,24 @@
 				(hide yes)
 			)
 		)
+		(property "Mouser Part Number" ""
+			(at 45.72 59.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser Price/Stock" ""
+			(at 45.72 59.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "0c156e11-5b3e-410c-a5b0-3e03fd3334d1")
 		)
@@ -3562,7 +3945,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "červená 3mm"
+		(property "Value" "LL-304VD2E-V1-1A"
 			(at 130.81 134.62 90)
 			(effects
 				(font
@@ -3609,6 +3992,24 @@
 		)
 		(property "eshop" ""
 			(at 133.35 133.35 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser Part Number" ""
+			(at 133.35 133.35 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser Price/Stock" ""
+			(at 133.35 133.35 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3698,6 +4099,24 @@
 				(hide yes)
 			)
 		)
+		(property "Mouser Part Number" ""
+			(at 76.2 66.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser Price/Stock" ""
+			(at 76.2 66.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "3"
 			(uuid "ea4d5604-8e3a-472b-ac4a-c31c1f869bca")
 		)
@@ -3763,6 +4182,24 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
+			(at 87.63 59.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser Part Number" ""
+			(at 87.63 59.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser Price/Stock" ""
 			(at 87.63 59.69 0)
 			(effects
 				(font
@@ -3906,6 +4343,24 @@
 				(hide yes)
 			)
 		)
+		(property "Mouser Part Number" ""
+			(at 152.4 80.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser Price/Stock" ""
+			(at 152.4 80.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "bbd5f0d0-a8bb-44ed-9219-f42e6cb6ff1b")
 		)
@@ -3967,6 +4422,24 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 133.35 125.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser Part Number" ""
+			(at 133.35 125.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser Price/Stock" ""
 			(at 133.35 125.73 0)
 			(effects
 				(font
@@ -4045,6 +4518,24 @@
 				(hide yes)
 			)
 		)
+		(property "Mouser Part Number" ""
+			(at 73.66 54.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser Price/Stock" ""
+			(at 73.66 54.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "e4016ee9-77fa-435b-8a24-135f5fe8d1f4")
 		)
@@ -4055,6 +4546,164 @@
 			(project "Semafor"
 				(path "/28502dfb-f32c-4f8d-b9ed-b37434456d14"
 					(reference "R7")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "EG1206A:EG1206A")
+		(at 104.14 195.58 0)
+		(mirror y)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "bc592408-1ddd-4714-b79c-16cbc0f4778b")
+		(property "Reference" "SW1"
+			(at 85.09 199.3899 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "E-SWITCH EG1206A"
+			(at 85.09 201.9299 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "ProjLib:EG1206A"
+			(at 85.09 290.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://configured-product-images.s3.amazonaws.com/2D/specs/EG1206A.pdf"
+			(at 85.09 390.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Description" "SLIDE, 200mA, 30VDC SPDT, On-On Through Hole, Right Angle"
+			(at 104.14 195.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Height" "6"
+			(at 85.09 590.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "TME Electronic Components Part Number" ""
+			(at 85.09 690.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "TME Electronic Components Price/Stock" ""
+			(at 85.09 790.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Name" "E-Switch"
+			(at 85.09 890.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "EG1206A"
+			(at 85.09 990.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "eshop" ""
+			(at 104.14 195.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser Part Number" ""
+			(at 104.14 195.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser Price/Stock" ""
+			(at 104.14 195.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "MH1"
+			(uuid "ceeb3399-25b7-4d0e-943f-ae1bc4dab54d")
+		)
+		(pin "3"
+			(uuid "ff9b6d3d-7a2a-4ae9-8590-635a6fedab92")
+		)
+		(pin "2"
+			(uuid "860d761f-2034-4fe3-9949-6f69d555f1ad")
+		)
+		(pin "1"
+			(uuid "c7c01788-4970-4e4f-9fc1-1b6216bb04ad")
+		)
+		(pin "MH2"
+			(uuid "55ca39df-d421-4c0f-9c33-1618cbddcc7d")
+		)
+		(instances
+			(project ""
+				(path "/28502dfb-f32c-4f8d-b9ed-b37434456d14"
+					(reference "SW1")
 					(unit 1)
 				)
 			)
@@ -4107,6 +4756,24 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 59.69 59.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser Part Number" ""
+			(at 59.69 59.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser Price/Stock" ""
 			(at 59.69 59.69 0)
 			(effects
 				(font
@@ -4250,6 +4917,24 @@
 				(hide yes)
 			)
 		)
+		(property "Mouser Part Number" ""
+			(at 82.55 115.57 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser Price/Stock" ""
+			(at 82.55 115.57 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "ef9fbdb6-4e34-4021-b706-387b5ae32e8a")
 		)
@@ -4330,6 +5015,24 @@
 		)
 		(property "eshop" ""
 			(at 152.4 87.63 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser Part Number" ""
+			(at 152.4 87.63 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser Price/Stock" ""
+			(at 152.4 87.63 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4554,6 +5257,24 @@
 				(hide yes)
 			)
 		)
+		(property "Mouser Part Number" ""
+			(at 152.4 107.95 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser Price/Stock" ""
+			(at 152.4 107.95 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "bb4bd2c0-d5a8-45f5-b9ff-51a8aa7657fb")
 		)
@@ -4615,6 +5336,24 @@
 			)
 		)
 		(property "Description" "Binary counter (14-stages) and oscillator"
+			(at 102.87 106.68 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser Part Number" ""
+			(at 102.87 106.68 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser Price/Stock" ""
 			(at 102.87 106.68 0)
 			(effects
 				(font
@@ -4735,6 +5474,24 @@
 				(hide yes)
 			)
 		)
+		(property "Mouser Part Number" ""
+			(at 152.4 100.33 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser Price/Stock" ""
+			(at 152.4 100.33 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "e45a16aa-6e9d-4d9d-a489-0c12cf9fbe01")
 		)
@@ -4745,6 +5502,71 @@
 			(project "Semafor"
 				(path "/28502dfb-f32c-4f8d-b9ed-b37434456d14"
 					(reference "R3")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 105.41 205.74 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "f7e16321-fde5-464e-aaa3-8e7a7f3968ec")
+		(property "Reference" "#PWR011"
+			(at 105.41 212.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 105.41 209.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 105.41 205.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 105.41 205.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 105.41 205.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "5573c9ee-2fbc-4db5-b85d-f57631bb7ce5")
+		)
+		(instances
+			(project "Semafor"
+				(path "/28502dfb-f32c-4f8d-b9ed-b37434456d14"
+					(reference "#PWR011")
 					(unit 1)
 				)
 			)
