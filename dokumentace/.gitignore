@@ -1,0 +1,23 @@
+# LaTeX build artifacts
+*.aux
+*.fdb_latexmk
+*.fls
+*.log
+*.out
+*.synctex.gz
+*.toc
+*.lof
+*.lot
+*.bbl
+*.blg
+*.idx
+*.ind
+*.ilg
+*.bcf
+*.run.xml
+*.nav
+*.snm
+*.vrb
+
+# Keep the compiled PDF
+!navod_semafor.pdf
